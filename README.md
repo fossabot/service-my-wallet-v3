@@ -1,5 +1,6 @@
-
 # Blockchain Wallet API V2
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fservice-my-wallet-v3.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fservice-my-wallet-v3?ref=badge_shield)
+
 
 Programmatically interface with your Blockchain.info wallet.
 
@@ -479,3 +480,7 @@ If you want to use blockchain-wallet-service in your UNIX production server, you
 ```sh
 $ nohup blockchain-wallet-service start --port 3000 &
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fservice-my-wallet-v3.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fservice-my-wallet-v3?ref=badge_large)
